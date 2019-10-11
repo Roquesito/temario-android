@@ -1,0 +1,72 @@
+Entorno de desarrollo:
+	Instalacion Android Studio.
+	Creacion del proyecto Hello Word.
+	Estructura de Proyecto Android.
+	Caracteristicas de android studio.
+	Emuladores en android studio.
+	Genymotion como alternativa de la emulacion.
+
+Conceptos basicos:
+	Que es un activity.
+	Ciclos de vida de un activity.
+	referencias en android (ficheros R.java).
+	Introduccion a ConstraintLayout.
+	View components.
+	Evento click.
+	Intents explicitos y paso de parametros entre Activities.
+	ListView eventos de lista.
+	Que es un fragment.
+	Ciclo de vida de una fragment.
+	Context en activity y fragment.
+	Mensajes toast y snackbar.
+	RecyclerView en fragmentList.
+	RecyclerView Adapter personalizado.
+	RecyclerView mejorando el Look Feel(Material Design).
+	RecyclerView haciendo uso de cardview.
+
+Solucion de errores y Debug e Android:
+	Introduccion a la depuracion en android studio.
+	Breakpoints y ejecucion paso a paso.
+	Excepciones y solucion de errores.
+	Gradle sync y solucion de error con fichero R.java.
+
+Android Jetpack Responsive Design:
+	Posicion y ordenamiento de elementos en Constraint Layout.
+	Alineacion y uso de guias en Constraint Layout.
+	Barreras en Constraint Layout.
+	Cadenas en Constraint Layout.
+	Diseño RecyclerView con Constraint Layout(Navegacion).
+	Diseño RecyclerView con Constraint LayoutFragment List).
+	Diseño RecyclerView con Constraint Layout(Adapter).
+	Conectando componentes StaggeredManager y LookAndFeel.
+	Layouts personalizados adaptables al tamaño de pantalla.
+	Layouts personalizados adaptables(variaciones).
+
+Android Jetpack arquitectura BD local con room Patrones Diseño:
+	Introduccion e instalacion de android Jetpack room.
+	Creando entidades en Room.
+	Objetos DAO y android jetpack LiveData.
+	Añadiendo una BD.
+	Creando el repositorio.
+	Creando un DialogFragment
+	Android Jetpack ViewModel añadir elemento.
+	Menu Opciones añadir elemento.
+	MenuOpcionesAdd.
+	Android Jetpack ViewModel modificar elemento.
+
+Google maps en android:
+	Introduccion.
+	Intent implicito visualizar posicion en Mapa.
+	Creando MapsActivity y generando API KEY.
+	Objeto Mapa.
+	Mapa Lite Mode.
+	Mapa Street View.
+	Personalizando el Estilo del Mapa.
+	Gestionando el estilo del Mapa.
+	Gestionando Markers.
+	Evento en Mapa Markers.
+
+
+		
+
+		
